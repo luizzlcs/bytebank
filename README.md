@@ -1,16 +1,29 @@
 # bytebank
 
-A new Flutter project.
+<h1 align="center">BYTEBANK</h1>
 
-## Getting Started
+<p align="center"> Atividade desenvolvida no curso da Alura</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img width="240" height="500" src="assets/images/BytBank.gif"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Recursos utilizados
+
+- Criando Widgets;
+- Criando rotas nomeadas;
+- Criando layout com Material;
+- Refatorando o código;
+- Trabalhando com StataLes e StateFul;
+- Corrigindo bugs;
+- Passagens de paramentos via rotas.
+
+
+### Autor
+
+<img alt="Luiz Carlos" title="Luiz Carlos" src="https://avatars.githubusercontent.com/u/29442285?s=96&v=4" height="100" width="100" />
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LUIZ_CARLOS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
+
